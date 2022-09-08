@@ -53,7 +53,7 @@ const logoClass = document.getElementsByClassName("logo");
 
 /*---Setting attributes---*/
 /*Logo*/
-logoClass[0].setAttribute("src", "/img/logo.png");
+logoClass[0].setAttribute("src", "img/logo.png");
 
 /*Button RGB*/
 buttonRGBClass[0].setAttribute("type", "color");
